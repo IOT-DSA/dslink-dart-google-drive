@@ -1,0 +1,23 @@
+# Generate by pub on 2015-07-28 17:28:20.200.
+# This file contains a map from Dart package names to Dart package locations.
+# Dart tools, including the Dart VM and Dart analyzer, rely on the content.
+# AUTO GENERATED - DO NOT EDIT
+_discoveryapis_commons:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/_discoveryapis_commons-0.1.1/lib/
+args:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/args-0.13.2/lib/
+bignum:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/bignum-0.0.7/lib/
+cipher:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/cipher-0.7.1/lib/
+collection:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/collection-1.1.1/lib/
+crypto:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/crypto-0.9.0/lib/
+csv:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/csv-2.0.1/lib/
+dslink:file:///Users/alex/.pub-cache/git/dslink-ad824881d6fb90c6c0a849c7b7eafcff5d36c8d1/lib/
+dslink_google_drive:./lib/
+fixnum:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/fixnum-0.9.1+2/lib/
+googleapis:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/googleapis-0.12.1/lib/
+googleapis_auth:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/googleapis_auth-0.2.3+1/lib/
+http:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/http-0.11.3/lib/
+http_parser:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/http_parser-0.0.2+8/lib/
+logging:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/logging-0.11.1/lib/
+path:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/path-1.3.6/lib/
+source_span:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/source_span-1.1.2/lib/
+stack_trace:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.3.4/lib/
+string_scanner:file:///Users/alex/.pub-cache/hosted/pub.dartlang.org/string_scanner-0.1.3+1/lib/

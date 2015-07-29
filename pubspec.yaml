@@ -1,0 +1,9 @@
+name: dslink_google_drive
+description: Google Drive DSLink
+version: 0.0.1
+dependencies:
+  dslink:
+    git: "git://github.com/IOT-DSA/sdk-dslink-dart.git"
+  googleapis: "^0.12.1"
+  googleapis_auth: "^0.2.3"
+  csv: "^2.0.1"
