@@ -4,7 +4,7 @@ Access Google Drive from DSA.
 
 ## Setup
 
-- Go to the (Google Developers Console)[https://console.developers.google.com].
+- Go to the [Google Developers Console](https://console.developers.google.com).
 - Click `Create Project` and enter a project name.
 - Go to the `APIs & auth` section and enable the `Drive API` in the `APIs` section.
 - Select the `Credentials` section and click `Create new Client ID`.
